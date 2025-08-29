@@ -36,3 +36,5 @@ int listcode(cds id) 		//
 	free(ref);
 	return (-1);
 }
+
+void destruction
